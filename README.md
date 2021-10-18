@@ -7,7 +7,9 @@ To run
 dotnet build
 dotnet run
 ```
-4. Access the api at http://localhost:5000
+4. In `apiKey.txt`, add the `http://api.ipstack.com/`'s access key
+
+5. Access the api at http://localhost:5000
 
 e.g.
 ```
